@@ -3,7 +3,7 @@
 - 👀 I’m interested in...
   - Getting into Godot
 - 🌱 I’m currently learning ...
-  - Godot, latest Angular bullshit, Kubernetes
+  - Godot, latest Angular, Kubernetes
 - 📫 How to reach me
   - email @ zathaelv@gmail.com
 
